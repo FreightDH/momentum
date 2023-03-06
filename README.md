@@ -1,3 +1,21 @@
-# RSS JS/FE Stage-0
 ## Project "Momentum"
-Deploy: [link](https://freightdh.github.io/momentum/momentum/)
+### Что это?
+Аналог одноименного приложения [Momentum](https://chrome.google.com/webstore/detail/momentum/laookkfknpbbblfpciffpaejjkokdgca?hl=ru) из интернет-магазина Chrome с добавленным функционалом.
+### Что реализовано?
+- время и дата;
+- приветствие;
+- смена фонового изображения (от 3-ех источников);
+- виджет погоды;
+- виджет цитат дня;
+- продвинутый аудиоплеер;
+- настройки (спрятать/показать блоки, поменять язык приложения, изменить источник изображения);
+- работа с API (изображения, погода). 
+### Стек технологий:
+- HTML
+- SCSS
+- JS
+### Деплой:
+[Momentum](https://freightdh-momentum.netlify.app/) 
+### P.S.
+- приложение разрабатывалось для браузера Google Chrome;
+- приложение расчитано на desktop-использование. 
